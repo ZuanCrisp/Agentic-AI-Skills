@@ -1,0 +1,12 @@
+Original tag name: 0.6.3
+Original tag object: b50752be964f5d3e18600142899694db82f639cc
+Original target commit: 8c6530305396f341b5da7201cf1f7e390fdb863f
+Original object type: tag
+
+--- Original annotated tag object body ---
+object 8c6530305396f341b5da7201cf1f7e390fdb863f
+type commit
+tag 0.6.3
+tagger Addy Osmani <addyosmani@gmail.com> 1783057341 -0700
+
+0.6.3
