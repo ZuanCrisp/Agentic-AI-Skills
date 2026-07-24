@@ -1,0 +1,12 @@
+Original tag name: 0.6.5
+Original tag object: a7d180475c4ec8a2f5f23c1a463972d4f8fc273e
+Original target commit: ff2df4c07e7836a092ed28e1e9b42f4d6009280c
+Original object type: tag
+
+--- Original annotated tag object body ---
+object ff2df4c07e7836a092ed28e1e9b42f4d6009280c
+type commit
+tag 0.6.5
+tagger Addy Osmani <addyosmani@gmail.com> 1785028918 -0700
+
+Agent Skills 0.6.5
