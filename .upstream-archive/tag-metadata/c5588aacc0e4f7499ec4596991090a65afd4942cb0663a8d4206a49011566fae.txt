@@ -1,0 +1,12 @@
+Original tag name: 0.6.12
+Original tag object: f01f649b4b50fd89360eb9e3f5d3c60d2d6ee294
+Original target commit: a06bc63b3f8b829c14b0bbf53d99fefc39d58092
+Original object type: tag
+
+--- Original annotated tag object body ---
+object a06bc63b3f8b829c14b0bbf53d99fefc39d58092
+type commit
+tag 0.6.12
+tagger Addy Osmani <addyosmani@gmail.com> 1791009720 -0700
+
+Agent Skills 0.6.12
