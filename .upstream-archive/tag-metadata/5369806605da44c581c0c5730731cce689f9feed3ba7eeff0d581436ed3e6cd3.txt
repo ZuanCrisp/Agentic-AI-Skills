@@ -1,0 +1,12 @@
+Original tag name: 0.6.14
+Original tag object: 3d48c77a6ccace108ea643dd9b6449206f75fb31
+Original target commit: eb07f19f52c2669f2364897aaa293e2aaddd7b1c
+Original object type: tag
+
+--- Original annotated tag object body ---
+object eb07f19f52c2669f2364897aaa293e2aaddd7b1c
+type commit
+tag 0.6.14
+tagger r2 <r2@local> 1793250417 -0700
+
+Agent Skills 0.6.14
