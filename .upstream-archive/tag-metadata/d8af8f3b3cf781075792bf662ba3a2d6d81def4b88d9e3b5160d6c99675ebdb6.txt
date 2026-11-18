@@ -1,0 +1,12 @@
+Original tag name: 0.6.17
+Original tag object: 656b9dac23d2e3880e2110bf4b6a48e003ebe861
+Original target commit: 8c99fa36d90068c82d547f7c12a9d67a3e95f4ee
+Original object type: tag
+
+--- Original annotated tag object body ---
+object 8c99fa36d90068c82d547f7c12a9d67a3e95f4ee
+type commit
+tag 0.6.17
+tagger r2 <r2@local> 1795032397 -0800
+
+Agent Skills 0.6.17
